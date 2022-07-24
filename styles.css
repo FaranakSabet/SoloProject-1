@@ -42,7 +42,7 @@ img {
   width: 30%;
 }
 p {
-  display: block;
+  display: inline-flex;
 }
 
 .footer {
@@ -58,9 +58,9 @@ p {
   background-color: #cdf5ae;
   color: #ffffff;
   padding: 20px;
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  width: 400px;
+  width: 500px;
   height: 200px;
   border-radius: 20px;
 }
@@ -72,7 +72,7 @@ p {
 
 .card img {
   border-radius: 20px;
-  height: 80%;
-  width: 45%;
+  height: 70%;
+  width: 35%;
   text-align: left;
 }
